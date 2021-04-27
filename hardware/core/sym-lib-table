@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/../kicad/library/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "sensor")(type "KiCad")(uri "${KIPRJMOD}/../kicad/library/sensor.kicad_sym")(options "")(descr ""))
+  (lib (name "led")(type "KiCad")(uri "${KIPRJMOD}/../kicad/library/led.kicad_sym")(options "")(descr ""))
+)
