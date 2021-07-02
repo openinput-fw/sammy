@@ -36,6 +36,8 @@ Open source wired mouse hardware.
 |4|GND|
 |5|Shield|
 
+Peripheral boards are used for the buttons and encoder, available at [generic-mouse-boards](https://github.com/openinput-fw/generic-mouse-boards).
+
 ## Firmware
 
 sammy is meant to run on [openinput](https://github.com/openinput-fw/openinput).
