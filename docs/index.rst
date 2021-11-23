@@ -5,7 +5,7 @@ sammy
 *****
 *sammy* is an open source wired mouse hardware implementation.
 
-The little brother of *big-sammy_*
+The little brother of big-sammy_
 
 State of the project
 ====================
