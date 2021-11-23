@@ -8,6 +8,9 @@ Open source wired mouse hardware.
 
 The little brother of [big-sammy](https://github.com/openinput-fw/big-sammy)
 
+Please see the [documentation](https://sammy.readthedocs.io/en/latest)
+for more information.
+
 ## Specifications
 - 8 kHz sampling rate support
 - Zero latency switch debounce
