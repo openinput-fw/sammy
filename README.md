@@ -24,7 +24,7 @@ for more information.
 
 ## Firmware
 
-sammy is meant to run on [openinput](https://github.com/openinput-fw/openinput).
+*sammy* is meant to run on [openinput](https://github.com/openinput-fw/openinput).
 
 ## License
 
